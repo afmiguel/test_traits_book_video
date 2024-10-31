@@ -1,6 +1,6 @@
-// 1. Execute this program...
-// 2. Add Trait Describable for Video and Book
-// 3. Show describes
+// 1. Run this program as it is and observe the output.
+// 2. Implement the Describable trait for both the Video and Book structs.
+// 3. After implementing the Describable trait, use it to call the describe method on instances of Video and Book to display custom descriptions.
 
 #[derive(Debug)]
 pub struct Book {
